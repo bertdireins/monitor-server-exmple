@@ -1,4 +1,4 @@
-## Provisionierung server
+## Provision server
 
 ```bash
 docker-compose up -d
