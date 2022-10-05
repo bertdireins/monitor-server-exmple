@@ -1,10 +1,10 @@
-## Prvisionierung server
+## Provisionierung server
 
 ```bash
 docker-compose up -d
 ```
 
-## Push some metrics
+## Push some metrics from server
 
 In grafan query eg: 'some_metric{job="somejob"}'
 
@@ -50,6 +50,6 @@ while (1 -eq 1 ){
 }
 ```
 
-## Dahboard
+## Grafana Dahboard
 
 Import json from here: https://grafana.com/grafana/dashboards/14694-windows-exporter-dashboard/
